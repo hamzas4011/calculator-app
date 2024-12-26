@@ -42,4 +42,5 @@ This is a simple calculator application built with React.js. It allows users to 
 ---
 
 ## Live Demo 🌍
-Check out the app live here: [Calculator App](https://calculator-app-two-beta.vercel.app/)
+**Check out the app live here:** [Calculator App](https://calculator-app-two-beta.vercel.app/) *(Right-click to open in a new tab)*
+
